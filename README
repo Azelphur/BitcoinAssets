@@ -1,0 +1,4 @@
+This is the bitcoin asset streaming bot currently running on #bitcoin-shares on freenode
+
+If you intend to use it yourself, there are things that you will need to patch in the source, mostly because I couldn't be bothered to add config options (patches welcome :D), mainly the twitter username and password, and the network/channel.
+
